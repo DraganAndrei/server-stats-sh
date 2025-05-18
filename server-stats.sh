@@ -16,3 +16,5 @@ printf "%s\n" "${TOP5_CPU[@]}"
 echo -e "\nTop 5 Memory consuming applications:"
 printf "%s\n" "${TOP5_MEM[@]}"
 echo "---------------------------------------------------------------------"
+
+#thanks
