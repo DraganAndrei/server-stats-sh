@@ -17,4 +17,4 @@ echo -e "\nTop 5 Memory consuming applications:"
 printf "%s\n" "${TOP5_MEM[@]}"
 echo "---------------------------------------------------------------------"
 
-#thanks
+#thank you!
